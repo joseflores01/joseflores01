@@ -16,7 +16,7 @@ that makes me a grow and become a better developer.
 - 👯 I’m looking to collaborate on any project with impact 
 - 🤔 I’m interested in Full Stack development, Machine Learning, and Computer Graphics
 - 💬 Ask me about computers, programming, tech, UCF, life in Orlando, or anything else you want
-- 📫 How to reach me: [email](joseflores01@outlook.com)
+- 📫 How to reach me: [email](mailto:joseflores01@outlook.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I build and fly radio controlled airplanes ✈️ 
 
