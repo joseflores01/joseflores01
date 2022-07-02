@@ -22,7 +22,7 @@ I'm a software developer with experience in diverse technologies and areas of co
 
 - 🌎 Find me in: [LinkedIn](https://www.linkedin.com/in/jose-flores-oria/) | [Stack Overflow](https://stackoverflow.com/users/19393173/josé-a-flores-oria)
 | [SoloLearn](https://www.sololearn.com/profile/12360066) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/joseflores01/profile) | [HackerRank](https://www.hackerrank.com/joseflores1)
-| [Medium](https://medium.com/@joseflores01) | [HackerEarth](https://www.hackerearth.com/@jose444) | [Behance](https://www.behance.net/joseflores01)
+| [Medium](https://medium.com/@joseflores01) | [HackerEarth](https://www.hackerearth.com/@joseflores01) | [Behance](https://www.behance.net/joseflores01)
 
 ## 👨‍💻 Skills
 
