@@ -30,3 +30,8 @@ I'm a software developer with experience in diverse technologies and areas of co
 - 📦 Libraries and frameworks: React, Redux, Node.js, Express, WebGL, REST APIs, Pandas, NumPy
 - 🧰 Tools: Docker, Kubernetes, Git, Postman, Adobe Xd, Figma
 - ☁️ Cloud: IBM Cloud, Heroku
+
+## 📝 Blog Posts
+
+- 📝 [Getting Started with WebGL](https://www.geeksforgeeks.org/getting-started-with-webgl/)
+- 📝 [WebGL Introduction](https://www.geeksforgeeks.org/webgl-introduction/)
