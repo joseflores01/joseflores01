@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub profile!**
 
-I'm a software developer with experience in diverse technologies and areas of computer science. I love coding and I like to learn and explore new development methodologies, frameworks, tools, and programming languages that make me grow and become a better developer.
+I’m a software developer passionate about tech and innovation. I’m always driven by curiosity and I get excited about exploring different fields in computer science and learning new technologies. I enjoy solving coding problems especially those that challenge me to come up with a creative solution. I constantly endeavor for the best in everything I do so that I'm interested in working on projects with impact.
 
 <!-- **joseflores01/joseflores01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
