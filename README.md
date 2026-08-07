@@ -29,7 +29,7 @@ I’m a software developer passionate about tech and innovation who constantly e
 - 💻 Programming Languages: Java, JavaScript, C, Python, HTML, CSS
 - 📦 Libraries and frameworks: React, Redux, Node.js, Express, WebGL, REST APIs, Pandas, NumPy
 - 🧰 Tools: Docker, Kubernetes, Git, Postman, Adobe Xd, Figma
-- ☁️ Cloud: IBM Cloud, Heroku
+- ☁️ Cloud: AWS Cloud, IBM Cloud
 
 ## 📝 Blog Posts
 
