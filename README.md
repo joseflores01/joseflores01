@@ -6,7 +6,7 @@ I’m a software developer passionate about tech and innovation who constantly e
 
 <!-- **joseflores01/joseflores01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## 💡 What I'm Up To
+## 👨‍💻 About Me
 
 - 🎓 I have a B.S. in Computer Science from UCF and am currently working on an M.S. in Data Science at Eastern University.
 - 🔭 I’m currently working on machine learning projects and cloud infrastructure,
