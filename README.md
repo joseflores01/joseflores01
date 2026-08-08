@@ -1,4 +1,4 @@
-# Hi there 👋 I'm José
+# Hi, I'm José 👋 
 
 **Welcome to my GitHub profile!**
 
@@ -6,10 +6,10 @@ I’m a software developer passionate about tech and innovation who constantly e
 
 <!-- **joseflores01/joseflores01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## 😁 About Me
+## 💡 What I'm Up To
 
-- 🎓 I have a B.S. in Computer Science from UCF
-- 🔭 I’m currently working on personal projects and looking for jobs opportunities
+- 🎓 I have a B.S. in Computer Science from UCF and am currently working on an M.S. in Data Science at Eastern University.
+- 🔭 I’m currently working on machine learning projects and cloud infrastructure,
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on any project with impact 
 - 🤔 I’m interested in Full Stack development, Machine Learning, and Computer Graphics
