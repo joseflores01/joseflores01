@@ -8,7 +8,7 @@ I’m a software developer passionate about tech and innovation who constantly e
 
 ## 👨‍💻 About Me
 
-- 🎓 I have a B.S. in Computer Science from UCF and am currently working on an M.S. in Data Science at Eastern University.
+- 🎓 I have a B.S. in Computer Science from UCF and am currently working on my M.S. in Data Science at Eastern University.
 - 🔭 I’m currently working on machine learning projects and cloud infrastructure,
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on any project with impact 
