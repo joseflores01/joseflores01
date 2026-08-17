@@ -11,7 +11,7 @@ I’m a software developer passionate about tech and innovation who constantly e
 - 🎓 I have a B.S. in Computer Science from UCF and am currently working on my M.S. in Data Science at Eastern University.
 - 🔭 I’m currently working on machine learning projects and cloud infrastructure,
 - 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on any project with impact 
+- 👯 I’m looking to collaborate on high-impact projects that solve real-world problems
 - 🤔 I’m interested in Full Stack development, Machine Learning, and Computer Graphics
 - 💬 Ask me about computers, programming, tech, UCF, life in Orlando, or anything else you want
 - 📫 How to reach me: [email](mailto:joseflores01@outlook.com)
