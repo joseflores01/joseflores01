@@ -13,7 +13,7 @@ I’m a software developer passionate about tech and innovation who constantly e
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on impactful, mission-driven projects
 - 🤔 I’m interested in Full Stack development, Machine Learning, and Computer Graphics
-- 💬 Ask me about computers, programming, tech, UCF, life in Orlando, or anything else you want
+- 💬 Ask me about computers, programming, tech, UCF, life in Orlando, or whatever's on your mind.
 - 📫 How to reach me: [email](mailto:joseflores01@outlook.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I build and fly radio controlled airplanes ✈️ 
