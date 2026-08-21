@@ -26,11 +26,11 @@ I’m a software developer passionate about tech and innovation who constantly e
 
 ## 🛠️ Tech Stack & Tools
 
-- 🌐 Frontend & Design: JavaScript, React.js, Redux, HTML5, CSS3, WebGL, Figma, Adobe XD
-- ⚙️ Backend & APIs: Node.js, Express.js, Python, Java, C, RESTful APIs
-- 📊 Data Science & ML: Python, Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
-- ☁️ Cloud & DevOps: AWS (Certified Cloud Practitioner), IBM Cloud, Docker, Kubernetes, Git, Postman
-- 🗄️ Databases: MongoDB, SQL
+- **🌐 Frontend & Design:** JavaScript, React.js, Redux, HTML5, CSS3, WebGL, Figma, Adobe XD
+- **⚙️ Backend & APIs:** Node.js, Express.js, Python, Java, C, RESTful APIs
+- **📊 Data Science & ML:** Python, Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
+- **☁️ Cloud & DevOps:** AWS (Certified Cloud Practitioner), IBM Cloud, Docker, Kubernetes, Git, Postman
+- **🗄️ Databases:** MongoDB, SQL
 
 ## 📝 Blog Posts
 
