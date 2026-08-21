@@ -24,12 +24,13 @@ I’m a software developer passionate about tech and innovation who constantly e
 | [SoloLearn](https://www.sololearn.com/profile/12360066) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/joseflores01/profile) | [HackerRank](https://www.hackerrank.com/joseflores1)
 | [Medium](https://medium.com/@joseflores01) | [HackerEarth](https://www.hackerearth.com/@joseflores01)
 
-## 👨‍💻 Skills
+## 🛠️ Tech Stack & Tools
 
-- 💻 Programming Languages: Java, JavaScript, C, Python, HTML, CSS
-- 📦 Libraries and frameworks: React, Redux, Node.js, Express, WebGL, REST APIs, Pandas, NumPy
-- 🧰 Tools: Docker, Kubernetes, Git, Postman, Adobe Xd, Figma
-- ☁️ Cloud: AWS Cloud, IBM Cloud
+- 🌐 Frontend & Design: JavaScript, React.js, Redux, HTML5, CSS3, WebGL, Figma, Adobe XD
+- ⚙️ Backend & APIs: Node.js, Express.js, Python, Java, C, RESTful APIs
+- 📊 Data Science & ML: Python, Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
+- ☁️ Cloud & DevOps: AWS (Certified Cloud Practitioner), IBM Cloud, Docker, Kubernetes, Git, Postman
+- 🗄️ Databases: MongoDB, SQL
 
 ## 📝 Blog Posts
 
