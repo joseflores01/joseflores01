@@ -16,7 +16,7 @@ I’m a software developer passionate about tech and innovation who constantly e
 - 💬 Ask me about CS, tech, UCF Knight life, or whatever's on your mind.
 - 📫 How to reach me: [email](mailto:joseflores01@outlook.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I build and fly radio controlled airplanes ✈️ 
+- ⚡ Fun fact: I build and fly radio controlled airplanes ✈️  
 
 ## 🛠️ Tech Stack & Tools
 
