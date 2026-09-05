@@ -32,4 +32,4 @@ I’m a software developer passionate about tech and innovation who constantly e
 - 📝 [WebGL Introduction](https://www.geeksforgeeks.org/webgl-introduction/)
 
 ## 🌎 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/jose-flores-oria/) • [Medium](https://medium.com/@joseflores01) • [HackerRank](https://www.hackerrank.com/joseflores1) • [Stack Overflow](https://stackoverflow.com/users/19393173/josé-a-flores-oria) • [Email Me](mailto:joseflores01@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/jose-flores-oria/) • [HackerRank](https://www.hackerrank.com/joseflores1) • [Stack Overflow](https://stackoverflow.com/users/19393173/josé-a-flores-oria) • [Email Me](mailto:joseflores01@outlook.com)
