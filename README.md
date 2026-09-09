@@ -6,7 +6,7 @@ I’m a software developer passionate about tech and innovation who constantly e
 
 <!-- **joseflores01/joseflores01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 - 🎓 I have a B.S. in Computer Science from UCF (*Go Knights! ⚔️*) and am currently working on my M.S. in Data Science at Eastern University.
 - 🔭 I’m currently working on machine learning projects and cloud infrastructure,
@@ -18,7 +18,7 @@ I’m a software developer passionate about tech and innovation who constantly e
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I build and fly radio controlled airplanes ✈️  
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools 
 
 - **🌐 Frontend & Design:** JavaScript, React.js, Redux, HTML5, CSS3, WebGL, Figma, Adobe XD
 - **⚙️ Backend & APIs:** Node.js, Express.js, Python, Java, C, RESTful APIs
