@@ -1,6 +1,6 @@
 # Hi, I'm José 👋 
 
-**Welcome to my GitHub profile!**
+**Welcome to my GitHub profile!** 
 
 I’m a software developer passionate about tech and innovation who constantly endeavors for the best in every project. I’m always driven by curiosity and I get excited about exploring different fields in computer science and learning new technologies. I enjoy solving coding problems especially those that challenge me to come up with a creative solution.
 
