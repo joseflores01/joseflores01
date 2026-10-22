@@ -26,7 +26,7 @@ I’m a software developer passionate about tech and innovation who constantly e
 - **☁️ Cloud & DevOps:** AWS (Certified Cloud Practitioner), IBM Cloud, Docker, Kubernetes, Git, Postman
 - **🗄️ Databases:** MongoDB, SQL
 
-## 📝 Articles & Tutorials 
+## 📝 Articles & Tutorials
 
 - 📝 [Getting Started with WebGL](https://www.geeksforgeeks.org/getting-started-with-webgl/)
 - 📝 [WebGL Introduction](https://www.geeksforgeeks.org/webgl-introduction/)
