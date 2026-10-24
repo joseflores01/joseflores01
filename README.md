@@ -18,7 +18,7 @@ I’m a software developer passionate about tech and innovation who constantly e
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I build and fly radio controlled airplanes ✈️  
 
-## 🛠️ Tech Stack & Tools 
+## 🛠️ Tech Stack & Tools
 
 - **🌐 Frontend & Design:** JavaScript, React.js, Redux, HTML5, CSS3, WebGL, Figma, Adobe XD
 - **⚙️ Backend & APIs:** Node.js, Express.js, Python, Java, C, RESTful APIs
